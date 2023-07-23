@@ -357,8 +357,8 @@ div > h3 {
     flex-shrink: 0;
     align-items: center;
     position: fixed;
-    bottom: 0; /* Position the footer at the bottom of the screen */
-    left: 0; /* Position the footer on the left side of the screen */
+    bottom: 0;
+    left: 0;
   }
   .arrow {
     display: flex;
